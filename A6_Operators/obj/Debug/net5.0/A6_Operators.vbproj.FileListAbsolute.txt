@@ -1,0 +1,16 @@
+E:\TraningOnJob\GitVB.NET\VB.NET\A6_Operators\bin\Debug\net5.0\A6_Operators.exe
+E:\TraningOnJob\GitVB.NET\VB.NET\A6_Operators\bin\Debug\net5.0\A6_Operators.deps.json
+E:\TraningOnJob\GitVB.NET\VB.NET\A6_Operators\bin\Debug\net5.0\A6_Operators.runtimeconfig.json
+E:\TraningOnJob\GitVB.NET\VB.NET\A6_Operators\bin\Debug\net5.0\A6_Operators.runtimeconfig.dev.json
+E:\TraningOnJob\GitVB.NET\VB.NET\A6_Operators\bin\Debug\net5.0\A6_Operators.dll
+E:\TraningOnJob\GitVB.NET\VB.NET\A6_Operators\bin\Debug\net5.0\A6_Operators.pdb
+E:\TraningOnJob\GitVB.NET\VB.NET\A6_Operators\obj\Debug\net5.0\A6_Operators.vbproj.AssemblyReference.cache
+E:\TraningOnJob\GitVB.NET\VB.NET\A6_Operators\obj\Debug\net5.0\A6_Operators.GeneratedMSBuildEditorConfig.editorconfig
+E:\TraningOnJob\GitVB.NET\VB.NET\A6_Operators\obj\Debug\net5.0\A6_Operators.AssemblyInfoInputs.cache
+E:\TraningOnJob\GitVB.NET\VB.NET\A6_Operators\obj\Debug\net5.0\A6_Operators.AssemblyInfo.vb
+E:\TraningOnJob\GitVB.NET\VB.NET\A6_Operators\obj\Debug\net5.0\A6_Operators.vbproj.CoreCompileInputs.cache
+E:\TraningOnJob\GitVB.NET\VB.NET\A6_Operators\obj\Debug\net5.0\A6_Operators.dll
+E:\TraningOnJob\GitVB.NET\VB.NET\A6_Operators\obj\Debug\net5.0\refint\A6_Operators.dll
+E:\TraningOnJob\GitVB.NET\VB.NET\A6_Operators\obj\Debug\net5.0\A6_Operators.pdb
+E:\TraningOnJob\GitVB.NET\VB.NET\A6_Operators\obj\Debug\net5.0\A6_Operators.genruntimeconfig.cache
+E:\TraningOnJob\GitVB.NET\VB.NET\A6_Operators\obj\Debug\net5.0\ref\A6_Operators.dll

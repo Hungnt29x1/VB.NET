@@ -1,0 +1,16 @@
+E:\TraningOnJob\GitVB.NET\VB.NET\B11_Collections\bin\Debug\net5.0\B11_Collections.exe
+E:\TraningOnJob\GitVB.NET\VB.NET\B11_Collections\bin\Debug\net5.0\B11_Collections.deps.json
+E:\TraningOnJob\GitVB.NET\VB.NET\B11_Collections\bin\Debug\net5.0\B11_Collections.runtimeconfig.json
+E:\TraningOnJob\GitVB.NET\VB.NET\B11_Collections\bin\Debug\net5.0\B11_Collections.runtimeconfig.dev.json
+E:\TraningOnJob\GitVB.NET\VB.NET\B11_Collections\bin\Debug\net5.0\B11_Collections.dll
+E:\TraningOnJob\GitVB.NET\VB.NET\B11_Collections\bin\Debug\net5.0\B11_Collections.pdb
+E:\TraningOnJob\GitVB.NET\VB.NET\B11_Collections\obj\Debug\net5.0\B11_Collections.vbproj.AssemblyReference.cache
+E:\TraningOnJob\GitVB.NET\VB.NET\B11_Collections\obj\Debug\net5.0\B11_Collections.GeneratedMSBuildEditorConfig.editorconfig
+E:\TraningOnJob\GitVB.NET\VB.NET\B11_Collections\obj\Debug\net5.0\B11_Collections.AssemblyInfoInputs.cache
+E:\TraningOnJob\GitVB.NET\VB.NET\B11_Collections\obj\Debug\net5.0\B11_Collections.AssemblyInfo.vb
+E:\TraningOnJob\GitVB.NET\VB.NET\B11_Collections\obj\Debug\net5.0\B11_Collections.vbproj.CoreCompileInputs.cache
+E:\TraningOnJob\GitVB.NET\VB.NET\B11_Collections\obj\Debug\net5.0\B11_Collections.dll
+E:\TraningOnJob\GitVB.NET\VB.NET\B11_Collections\obj\Debug\net5.0\refint\B11_Collections.dll
+E:\TraningOnJob\GitVB.NET\VB.NET\B11_Collections\obj\Debug\net5.0\B11_Collections.pdb
+E:\TraningOnJob\GitVB.NET\VB.NET\B11_Collections\obj\Debug\net5.0\B11_Collections.genruntimeconfig.cache
+E:\TraningOnJob\GitVB.NET\VB.NET\B11_Collections\obj\Debug\net5.0\ref\B11_Collections.dll

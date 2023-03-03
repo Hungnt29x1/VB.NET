@@ -1,0 +1,16 @@
+E:\TraningOnJob\GitVB.NET\VB.NET\A8_Strings\bin\Debug\net5.0\A8_Strings.exe
+E:\TraningOnJob\GitVB.NET\VB.NET\A8_Strings\bin\Debug\net5.0\A8_Strings.deps.json
+E:\TraningOnJob\GitVB.NET\VB.NET\A8_Strings\bin\Debug\net5.0\A8_Strings.runtimeconfig.json
+E:\TraningOnJob\GitVB.NET\VB.NET\A8_Strings\bin\Debug\net5.0\A8_Strings.runtimeconfig.dev.json
+E:\TraningOnJob\GitVB.NET\VB.NET\A8_Strings\bin\Debug\net5.0\A8_Strings.dll
+E:\TraningOnJob\GitVB.NET\VB.NET\A8_Strings\bin\Debug\net5.0\A8_Strings.pdb
+E:\TraningOnJob\GitVB.NET\VB.NET\A8_Strings\obj\Debug\net5.0\A8_Strings.vbproj.AssemblyReference.cache
+E:\TraningOnJob\GitVB.NET\VB.NET\A8_Strings\obj\Debug\net5.0\A8_Strings.GeneratedMSBuildEditorConfig.editorconfig
+E:\TraningOnJob\GitVB.NET\VB.NET\A8_Strings\obj\Debug\net5.0\A8_Strings.AssemblyInfoInputs.cache
+E:\TraningOnJob\GitVB.NET\VB.NET\A8_Strings\obj\Debug\net5.0\A8_Strings.AssemblyInfo.vb
+E:\TraningOnJob\GitVB.NET\VB.NET\A8_Strings\obj\Debug\net5.0\A8_Strings.vbproj.CoreCompileInputs.cache
+E:\TraningOnJob\GitVB.NET\VB.NET\A8_Strings\obj\Debug\net5.0\A8_Strings.dll
+E:\TraningOnJob\GitVB.NET\VB.NET\A8_Strings\obj\Debug\net5.0\refint\A8_Strings.dll
+E:\TraningOnJob\GitVB.NET\VB.NET\A8_Strings\obj\Debug\net5.0\A8_Strings.pdb
+E:\TraningOnJob\GitVB.NET\VB.NET\A8_Strings\obj\Debug\net5.0\A8_Strings.genruntimeconfig.cache
+E:\TraningOnJob\GitVB.NET\VB.NET\A8_Strings\obj\Debug\net5.0\ref\A8_Strings.dll

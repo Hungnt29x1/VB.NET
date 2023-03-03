@@ -1,0 +1,16 @@
+E:\TraningOnJob\GitVB.NET\VB.NET\B14_FileHandling\bin\Debug\net5.0\B14_FileHandling.exe
+E:\TraningOnJob\GitVB.NET\VB.NET\B14_FileHandling\bin\Debug\net5.0\B14_FileHandling.deps.json
+E:\TraningOnJob\GitVB.NET\VB.NET\B14_FileHandling\bin\Debug\net5.0\B14_FileHandling.runtimeconfig.json
+E:\TraningOnJob\GitVB.NET\VB.NET\B14_FileHandling\bin\Debug\net5.0\B14_FileHandling.runtimeconfig.dev.json
+E:\TraningOnJob\GitVB.NET\VB.NET\B14_FileHandling\bin\Debug\net5.0\B14_FileHandling.dll
+E:\TraningOnJob\GitVB.NET\VB.NET\B14_FileHandling\bin\Debug\net5.0\B14_FileHandling.pdb
+E:\TraningOnJob\GitVB.NET\VB.NET\B14_FileHandling\obj\Debug\net5.0\B14_FileHandling.vbproj.AssemblyReference.cache
+E:\TraningOnJob\GitVB.NET\VB.NET\B14_FileHandling\obj\Debug\net5.0\B14_FileHandling.GeneratedMSBuildEditorConfig.editorconfig
+E:\TraningOnJob\GitVB.NET\VB.NET\B14_FileHandling\obj\Debug\net5.0\B14_FileHandling.AssemblyInfoInputs.cache
+E:\TraningOnJob\GitVB.NET\VB.NET\B14_FileHandling\obj\Debug\net5.0\B14_FileHandling.AssemblyInfo.vb
+E:\TraningOnJob\GitVB.NET\VB.NET\B14_FileHandling\obj\Debug\net5.0\B14_FileHandling.vbproj.CoreCompileInputs.cache
+E:\TraningOnJob\GitVB.NET\VB.NET\B14_FileHandling\obj\Debug\net5.0\B14_FileHandling.dll
+E:\TraningOnJob\GitVB.NET\VB.NET\B14_FileHandling\obj\Debug\net5.0\refint\B14_FileHandling.dll
+E:\TraningOnJob\GitVB.NET\VB.NET\B14_FileHandling\obj\Debug\net5.0\B14_FileHandling.pdb
+E:\TraningOnJob\GitVB.NET\VB.NET\B14_FileHandling\obj\Debug\net5.0\B14_FileHandling.genruntimeconfig.cache
+E:\TraningOnJob\GitVB.NET\VB.NET\B14_FileHandling\obj\Debug\net5.0\ref\B14_FileHandling.dll

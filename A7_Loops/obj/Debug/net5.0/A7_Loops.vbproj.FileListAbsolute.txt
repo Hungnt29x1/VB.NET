@@ -1,0 +1,16 @@
+E:\TraningOnJob\GitVB.NET\VB.NET\A7_Loops\bin\Debug\net5.0\A7_Loops.exe
+E:\TraningOnJob\GitVB.NET\VB.NET\A7_Loops\bin\Debug\net5.0\A7_Loops.deps.json
+E:\TraningOnJob\GitVB.NET\VB.NET\A7_Loops\bin\Debug\net5.0\A7_Loops.runtimeconfig.json
+E:\TraningOnJob\GitVB.NET\VB.NET\A7_Loops\bin\Debug\net5.0\A7_Loops.runtimeconfig.dev.json
+E:\TraningOnJob\GitVB.NET\VB.NET\A7_Loops\bin\Debug\net5.0\A7_Loops.dll
+E:\TraningOnJob\GitVB.NET\VB.NET\A7_Loops\bin\Debug\net5.0\A7_Loops.pdb
+E:\TraningOnJob\GitVB.NET\VB.NET\A7_Loops\obj\Debug\net5.0\A7_Loops.vbproj.AssemblyReference.cache
+E:\TraningOnJob\GitVB.NET\VB.NET\A7_Loops\obj\Debug\net5.0\A7_Loops.GeneratedMSBuildEditorConfig.editorconfig
+E:\TraningOnJob\GitVB.NET\VB.NET\A7_Loops\obj\Debug\net5.0\A7_Loops.AssemblyInfoInputs.cache
+E:\TraningOnJob\GitVB.NET\VB.NET\A7_Loops\obj\Debug\net5.0\A7_Loops.AssemblyInfo.vb
+E:\TraningOnJob\GitVB.NET\VB.NET\A7_Loops\obj\Debug\net5.0\A7_Loops.vbproj.CoreCompileInputs.cache
+E:\TraningOnJob\GitVB.NET\VB.NET\A7_Loops\obj\Debug\net5.0\A7_Loops.dll
+E:\TraningOnJob\GitVB.NET\VB.NET\A7_Loops\obj\Debug\net5.0\refint\A7_Loops.dll
+E:\TraningOnJob\GitVB.NET\VB.NET\A7_Loops\obj\Debug\net5.0\A7_Loops.pdb
+E:\TraningOnJob\GitVB.NET\VB.NET\A7_Loops\obj\Debug\net5.0\A7_Loops.genruntimeconfig.cache
+E:\TraningOnJob\GitVB.NET\VB.NET\A7_Loops\obj\Debug\net5.0\ref\A7_Loops.dll

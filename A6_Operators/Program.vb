@@ -22,6 +22,56 @@
 
 Module Program
     Sub Main(args As String())
-        Console.WriteLine("Hello World!")
+
+        '------------------------- Toán tử số học ------------------------------
+        Dim a As Integer = 5
+        Dim b As Integer = 3
+        Dim c As Integer
+        c = a + b 'c sẽ có giá trị 8
+        c = a - b 'c sẽ có giá trị 2
+        c = a * b 'c sẽ có giá trị 15
+        c = a / b 'c sẽ có giá trị 1 (kết quả là số nguyên)
+        c = a Mod b 'c sẽ có gi
+
+        '------------------------- Toán tử so sánh -----------------------------
+        Dim a1 As Integer = 5
+        Dim b1 As Integer = 10
+        Dim c1 As Integer = 5
+
+        If a1 < b1 Then
+            Console.WriteLine("a1 nhỏ hơn b1")
+        End If
+
+        If a1 > b1 Then
+            Console.WriteLine("a1 lớn hơn b1")
+        End If
+
+        If a1 <= c1 Then
+            Console.WriteLine("a1 nhỏ hơn hoặc bằng c1")
+        End If
+
+        If a1 >= c1 Then
+            Console.WriteLine("a1 lớn hơn hoặc bằng c1")
+        End If
+
+        If a1 = c1 Then
+            Console.WriteLine("a1 bằng c1")
+        End If
+
+        If a1 <> b1 Then
+            Console.WriteLine("a1 không bằng b1")
+        End If
+
+        '-----------------------Toán tử logic -------------------------------------
+        Dim a2 As Boolean = True
+        Dim b2 As Boolean = False
+
+        If a2 AndAlso b2 Or a2 = b2 Then
+            Console.WriteLine("Cả a2 và b2 đều đúng")
+        ElseIf a2 OrElse b2 Then
+            Console.WriteLine("a2 hoặc b2 đúng")
+        ElseIf Not b2 Then
+            Console.WriteLine("b is false")
+        End If
     End Sub
 End Module

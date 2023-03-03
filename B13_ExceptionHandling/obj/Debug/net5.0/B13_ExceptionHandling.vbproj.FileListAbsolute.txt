@@ -1,0 +1,16 @@
+E:\TraningOnJob\GitVB.NET\VB.NET\B13_ExceptionHandling\bin\Debug\net5.0\B13_ExceptionHandling.exe
+E:\TraningOnJob\GitVB.NET\VB.NET\B13_ExceptionHandling\bin\Debug\net5.0\B13_ExceptionHandling.deps.json
+E:\TraningOnJob\GitVB.NET\VB.NET\B13_ExceptionHandling\bin\Debug\net5.0\B13_ExceptionHandling.runtimeconfig.json
+E:\TraningOnJob\GitVB.NET\VB.NET\B13_ExceptionHandling\bin\Debug\net5.0\B13_ExceptionHandling.runtimeconfig.dev.json
+E:\TraningOnJob\GitVB.NET\VB.NET\B13_ExceptionHandling\bin\Debug\net5.0\B13_ExceptionHandling.dll
+E:\TraningOnJob\GitVB.NET\VB.NET\B13_ExceptionHandling\bin\Debug\net5.0\B13_ExceptionHandling.pdb
+E:\TraningOnJob\GitVB.NET\VB.NET\B13_ExceptionHandling\obj\Debug\net5.0\B13_ExceptionHandling.vbproj.AssemblyReference.cache
+E:\TraningOnJob\GitVB.NET\VB.NET\B13_ExceptionHandling\obj\Debug\net5.0\B13_ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+E:\TraningOnJob\GitVB.NET\VB.NET\B13_ExceptionHandling\obj\Debug\net5.0\B13_ExceptionHandling.AssemblyInfoInputs.cache
+E:\TraningOnJob\GitVB.NET\VB.NET\B13_ExceptionHandling\obj\Debug\net5.0\B13_ExceptionHandling.AssemblyInfo.vb
+E:\TraningOnJob\GitVB.NET\VB.NET\B13_ExceptionHandling\obj\Debug\net5.0\B13_ExceptionHandling.vbproj.CoreCompileInputs.cache
+E:\TraningOnJob\GitVB.NET\VB.NET\B13_ExceptionHandling\obj\Debug\net5.0\B13_ExceptionHandling.dll
+E:\TraningOnJob\GitVB.NET\VB.NET\B13_ExceptionHandling\obj\Debug\net5.0\refint\B13_ExceptionHandling.dll
+E:\TraningOnJob\GitVB.NET\VB.NET\B13_ExceptionHandling\obj\Debug\net5.0\B13_ExceptionHandling.pdb
+E:\TraningOnJob\GitVB.NET\VB.NET\B13_ExceptionHandling\obj\Debug\net5.0\B13_ExceptionHandling.genruntimeconfig.cache
+E:\TraningOnJob\GitVB.NET\VB.NET\B13_ExceptionHandling\obj\Debug\net5.0\ref\B13_ExceptionHandling.dll

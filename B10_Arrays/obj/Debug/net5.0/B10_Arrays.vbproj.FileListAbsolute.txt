@@ -1,0 +1,16 @@
+E:\TraningOnJob\GitVB.NET\VB.NET\B10_Arrays\bin\Debug\net5.0\B10_Arrays.exe
+E:\TraningOnJob\GitVB.NET\VB.NET\B10_Arrays\bin\Debug\net5.0\B10_Arrays.deps.json
+E:\TraningOnJob\GitVB.NET\VB.NET\B10_Arrays\bin\Debug\net5.0\B10_Arrays.runtimeconfig.json
+E:\TraningOnJob\GitVB.NET\VB.NET\B10_Arrays\bin\Debug\net5.0\B10_Arrays.runtimeconfig.dev.json
+E:\TraningOnJob\GitVB.NET\VB.NET\B10_Arrays\bin\Debug\net5.0\B10_Arrays.dll
+E:\TraningOnJob\GitVB.NET\VB.NET\B10_Arrays\bin\Debug\net5.0\B10_Arrays.pdb
+E:\TraningOnJob\GitVB.NET\VB.NET\B10_Arrays\obj\Debug\net5.0\B10_Arrays.vbproj.AssemblyReference.cache
+E:\TraningOnJob\GitVB.NET\VB.NET\B10_Arrays\obj\Debug\net5.0\B10_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\TraningOnJob\GitVB.NET\VB.NET\B10_Arrays\obj\Debug\net5.0\B10_Arrays.AssemblyInfoInputs.cache
+E:\TraningOnJob\GitVB.NET\VB.NET\B10_Arrays\obj\Debug\net5.0\B10_Arrays.AssemblyInfo.vb
+E:\TraningOnJob\GitVB.NET\VB.NET\B10_Arrays\obj\Debug\net5.0\B10_Arrays.vbproj.CoreCompileInputs.cache
+E:\TraningOnJob\GitVB.NET\VB.NET\B10_Arrays\obj\Debug\net5.0\B10_Arrays.dll
+E:\TraningOnJob\GitVB.NET\VB.NET\B10_Arrays\obj\Debug\net5.0\refint\B10_Arrays.dll
+E:\TraningOnJob\GitVB.NET\VB.NET\B10_Arrays\obj\Debug\net5.0\B10_Arrays.pdb
+E:\TraningOnJob\GitVB.NET\VB.NET\B10_Arrays\obj\Debug\net5.0\B10_Arrays.genruntimeconfig.cache
+E:\TraningOnJob\GitVB.NET\VB.NET\B10_Arrays\obj\Debug\net5.0\ref\B10_Arrays.dll

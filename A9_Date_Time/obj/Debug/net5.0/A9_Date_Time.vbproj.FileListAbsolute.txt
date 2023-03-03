@@ -1,0 +1,16 @@
+E:\TraningOnJob\GitVB.NET\VB.NET\A9_Date_Time\bin\Debug\net5.0\A9_Date_Time.exe
+E:\TraningOnJob\GitVB.NET\VB.NET\A9_Date_Time\bin\Debug\net5.0\A9_Date_Time.deps.json
+E:\TraningOnJob\GitVB.NET\VB.NET\A9_Date_Time\bin\Debug\net5.0\A9_Date_Time.runtimeconfig.json
+E:\TraningOnJob\GitVB.NET\VB.NET\A9_Date_Time\bin\Debug\net5.0\A9_Date_Time.runtimeconfig.dev.json
+E:\TraningOnJob\GitVB.NET\VB.NET\A9_Date_Time\bin\Debug\net5.0\A9_Date_Time.dll
+E:\TraningOnJob\GitVB.NET\VB.NET\A9_Date_Time\bin\Debug\net5.0\A9_Date_Time.pdb
+E:\TraningOnJob\GitVB.NET\VB.NET\A9_Date_Time\obj\Debug\net5.0\A9_Date_Time.vbproj.AssemblyReference.cache
+E:\TraningOnJob\GitVB.NET\VB.NET\A9_Date_Time\obj\Debug\net5.0\A9_Date_Time.GeneratedMSBuildEditorConfig.editorconfig
+E:\TraningOnJob\GitVB.NET\VB.NET\A9_Date_Time\obj\Debug\net5.0\A9_Date_Time.AssemblyInfoInputs.cache
+E:\TraningOnJob\GitVB.NET\VB.NET\A9_Date_Time\obj\Debug\net5.0\A9_Date_Time.AssemblyInfo.vb
+E:\TraningOnJob\GitVB.NET\VB.NET\A9_Date_Time\obj\Debug\net5.0\A9_Date_Time.vbproj.CoreCompileInputs.cache
+E:\TraningOnJob\GitVB.NET\VB.NET\A9_Date_Time\obj\Debug\net5.0\A9_Date_Time.dll
+E:\TraningOnJob\GitVB.NET\VB.NET\A9_Date_Time\obj\Debug\net5.0\refint\A9_Date_Time.dll
+E:\TraningOnJob\GitVB.NET\VB.NET\A9_Date_Time\obj\Debug\net5.0\A9_Date_Time.pdb
+E:\TraningOnJob\GitVB.NET\VB.NET\A9_Date_Time\obj\Debug\net5.0\A9_Date_Time.genruntimeconfig.cache
+E:\TraningOnJob\GitVB.NET\VB.NET\A9_Date_Time\obj\Debug\net5.0\ref\A9_Date_Time.dll

@@ -27,6 +27,11 @@ Public Class Rectangle ' định nghĩa lớp Rectangle.
 
     End Sub
 
+    Public Function PhuongThuc(ByVal a As Integer, ByVal b As Integer) As Double ' Kiểu trả về và có tham số 
+        'ByVal là một từ khóa sử dụng để chỉ định tham số đầu vào của hàm hoặc phương thức sẽ được truyền theo giá trị. Khi sử dụng từ khóa ByVal, tham số được truyền vào hàm sẽ không bị ảnh hưởng bởi các thay đổi bên trong hàm và giá trị của tham số này sẽ được sao chép sang một biến mới.
+        Return a
+    End Function
+
     Shared Sub Main() ' định nghĩa một phương thức tĩnh (static method), được chia sẻ và sử dụng trong toàn bộ ứng dụng.
         Console.OutputEncoding = System.Text.Encoding.UTF8
         Dim r As New Rectangle() ' Khởi tạo 1 đối tượng

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\TestVB.Net\\HocVBA\\A5_Modifiers\\A5_Modifiers.vbproj": {}
+    "E:\\TraningOnJob\\GitVB.NET\\VB.NET\\A5_Modifiers\\A5_Modifiers.vbproj": {}
   },
   "projects": {
-    "E:\\TestVB.Net\\HocVBA\\A5_Modifiers\\A5_Modifiers.vbproj": {
+    "E:\\TraningOnJob\\GitVB.NET\\VB.NET\\A5_Modifiers\\A5_Modifiers.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\TestVB.Net\\HocVBA\\A5_Modifiers\\A5_Modifiers.vbproj",
+        "projectUniqueName": "E:\\TraningOnJob\\GitVB.NET\\VB.NET\\A5_Modifiers\\A5_Modifiers.vbproj",
         "projectName": "A5_Modifiers",
-        "projectPath": "E:\\TestVB.Net\\HocVBA\\A5_Modifiers\\A5_Modifiers.vbproj",
+        "projectPath": "E:\\TraningOnJob\\GitVB.NET\\VB.NET\\A5_Modifiers\\A5_Modifiers.vbproj",
         "packagesPath": "C:\\Users\\jinbi\\.nuget\\packages\\",
-        "outputPath": "E:\\TestVB.Net\\HocVBA\\A5_Modifiers\\obj\\",
+        "outputPath": "E:\\TraningOnJob\\GitVB.NET\\VB.NET\\A5_Modifiers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

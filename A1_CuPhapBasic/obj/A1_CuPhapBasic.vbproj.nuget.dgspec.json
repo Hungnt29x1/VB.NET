@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\TestVB.Net\\HocVBA\\A1_CuPhapBasic\\A1_CuPhapBasic.vbproj": {}
+    "E:\\TraningOnJob\\GitVB.NET\\VB.NET\\A1_CuPhapBasic\\A1_CuPhapBasic.vbproj": {}
   },
   "projects": {
-    "E:\\TestVB.Net\\HocVBA\\A1_CuPhapBasic\\A1_CuPhapBasic.vbproj": {
+    "E:\\TraningOnJob\\GitVB.NET\\VB.NET\\A1_CuPhapBasic\\A1_CuPhapBasic.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\TestVB.Net\\HocVBA\\A1_CuPhapBasic\\A1_CuPhapBasic.vbproj",
+        "projectUniqueName": "E:\\TraningOnJob\\GitVB.NET\\VB.NET\\A1_CuPhapBasic\\A1_CuPhapBasic.vbproj",
         "projectName": "A1_CuPhapBasic",
-        "projectPath": "E:\\TestVB.Net\\HocVBA\\A1_CuPhapBasic\\A1_CuPhapBasic.vbproj",
+        "projectPath": "E:\\TraningOnJob\\GitVB.NET\\VB.NET\\A1_CuPhapBasic\\A1_CuPhapBasic.vbproj",
         "packagesPath": "C:\\Users\\jinbi\\.nuget\\packages\\",
-        "outputPath": "E:\\TestVB.Net\\HocVBA\\A1_CuPhapBasic\\obj\\",
+        "outputPath": "E:\\TraningOnJob\\GitVB.NET\\VB.NET\\A1_CuPhapBasic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
