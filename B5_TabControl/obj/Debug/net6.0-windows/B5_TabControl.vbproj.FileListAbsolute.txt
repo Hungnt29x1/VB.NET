@@ -1,0 +1,17 @@
+E:\TestVB.Net\HocVBA\B5_TabControl\bin\Debug\net6.0-windows\B5_TabControl.exe
+E:\TestVB.Net\HocVBA\B5_TabControl\bin\Debug\net6.0-windows\B5_TabControl.deps.json
+E:\TestVB.Net\HocVBA\B5_TabControl\bin\Debug\net6.0-windows\B5_TabControl.runtimeconfig.json
+E:\TestVB.Net\HocVBA\B5_TabControl\bin\Debug\net6.0-windows\B5_TabControl.dll
+E:\TestVB.Net\HocVBA\B5_TabControl\bin\Debug\net6.0-windows\B5_TabControl.pdb
+E:\TestVB.Net\HocVBA\B5_TabControl\obj\Debug\net6.0-windows\B5_TabControl.vbproj.AssemblyReference.cache
+E:\TestVB.Net\HocVBA\B5_TabControl\obj\Debug\net6.0-windows\B5_TabControl.Form1.resources
+E:\TestVB.Net\HocVBA\B5_TabControl\obj\Debug\net6.0-windows\B5_TabControl.vbproj.GenerateResource.cache
+E:\TestVB.Net\HocVBA\B5_TabControl\obj\Debug\net6.0-windows\B5_TabControl.GeneratedMSBuildEditorConfig.editorconfig
+E:\TestVB.Net\HocVBA\B5_TabControl\obj\Debug\net6.0-windows\B5_TabControl.AssemblyInfoInputs.cache
+E:\TestVB.Net\HocVBA\B5_TabControl\obj\Debug\net6.0-windows\B5_TabControl.AssemblyInfo.vb
+E:\TestVB.Net\HocVBA\B5_TabControl\obj\Debug\net6.0-windows\B5_TabControl.vbproj.CoreCompileInputs.cache
+E:\TestVB.Net\HocVBA\B5_TabControl\obj\Debug\net6.0-windows\B5_TabControl.dll
+E:\TestVB.Net\HocVBA\B5_TabControl\obj\Debug\net6.0-windows\refint\B5_TabControl.dll
+E:\TestVB.Net\HocVBA\B5_TabControl\obj\Debug\net6.0-windows\B5_TabControl.pdb
+E:\TestVB.Net\HocVBA\B5_TabControl\obj\Debug\net6.0-windows\B5_TabControl.genruntimeconfig.cache
+E:\TestVB.Net\HocVBA\B5_TabControl\obj\Debug\net6.0-windows\ref\B5_TabControl.dll

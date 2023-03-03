@@ -1,0 +1,16 @@
+E:\TestVB.Net\HocVBA\A3_EpKieu\bin\Debug\net5.0\A3_EpKieu.exe
+E:\TestVB.Net\HocVBA\A3_EpKieu\bin\Debug\net5.0\A3_EpKieu.deps.json
+E:\TestVB.Net\HocVBA\A3_EpKieu\bin\Debug\net5.0\A3_EpKieu.runtimeconfig.json
+E:\TestVB.Net\HocVBA\A3_EpKieu\bin\Debug\net5.0\A3_EpKieu.runtimeconfig.dev.json
+E:\TestVB.Net\HocVBA\A3_EpKieu\bin\Debug\net5.0\A3_EpKieu.dll
+E:\TestVB.Net\HocVBA\A3_EpKieu\bin\Debug\net5.0\A3_EpKieu.pdb
+E:\TestVB.Net\HocVBA\A3_EpKieu\obj\Debug\net5.0\A3_EpKieu.vbproj.AssemblyReference.cache
+E:\TestVB.Net\HocVBA\A3_EpKieu\obj\Debug\net5.0\A3_EpKieu.GeneratedMSBuildEditorConfig.editorconfig
+E:\TestVB.Net\HocVBA\A3_EpKieu\obj\Debug\net5.0\A3_EpKieu.AssemblyInfoInputs.cache
+E:\TestVB.Net\HocVBA\A3_EpKieu\obj\Debug\net5.0\A3_EpKieu.AssemblyInfo.vb
+E:\TestVB.Net\HocVBA\A3_EpKieu\obj\Debug\net5.0\A3_EpKieu.vbproj.CoreCompileInputs.cache
+E:\TestVB.Net\HocVBA\A3_EpKieu\obj\Debug\net5.0\A3_EpKieu.dll
+E:\TestVB.Net\HocVBA\A3_EpKieu\obj\Debug\net5.0\refint\A3_EpKieu.dll
+E:\TestVB.Net\HocVBA\A3_EpKieu\obj\Debug\net5.0\A3_EpKieu.pdb
+E:\TestVB.Net\HocVBA\A3_EpKieu\obj\Debug\net5.0\A3_EpKieu.genruntimeconfig.cache
+E:\TestVB.Net\HocVBA\A3_EpKieu\obj\Debug\net5.0\ref\A3_EpKieu.dll

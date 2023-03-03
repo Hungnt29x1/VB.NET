@@ -1,0 +1,16 @@
+E:\TestVB.Net\HocVBA\A1_CuPhapBasic\bin\Debug\net5.0\A1_CuPhapBasic.exe
+E:\TestVB.Net\HocVBA\A1_CuPhapBasic\bin\Debug\net5.0\A1_CuPhapBasic.deps.json
+E:\TestVB.Net\HocVBA\A1_CuPhapBasic\bin\Debug\net5.0\A1_CuPhapBasic.runtimeconfig.json
+E:\TestVB.Net\HocVBA\A1_CuPhapBasic\bin\Debug\net5.0\A1_CuPhapBasic.runtimeconfig.dev.json
+E:\TestVB.Net\HocVBA\A1_CuPhapBasic\bin\Debug\net5.0\A1_CuPhapBasic.dll
+E:\TestVB.Net\HocVBA\A1_CuPhapBasic\bin\Debug\net5.0\A1_CuPhapBasic.pdb
+E:\TestVB.Net\HocVBA\A1_CuPhapBasic\obj\Debug\net5.0\A1_CuPhapBasic.vbproj.AssemblyReference.cache
+E:\TestVB.Net\HocVBA\A1_CuPhapBasic\obj\Debug\net5.0\A1_CuPhapBasic.GeneratedMSBuildEditorConfig.editorconfig
+E:\TestVB.Net\HocVBA\A1_CuPhapBasic\obj\Debug\net5.0\A1_CuPhapBasic.AssemblyInfoInputs.cache
+E:\TestVB.Net\HocVBA\A1_CuPhapBasic\obj\Debug\net5.0\A1_CuPhapBasic.AssemblyInfo.vb
+E:\TestVB.Net\HocVBA\A1_CuPhapBasic\obj\Debug\net5.0\A1_CuPhapBasic.vbproj.CoreCompileInputs.cache
+E:\TestVB.Net\HocVBA\A1_CuPhapBasic\obj\Debug\net5.0\A1_CuPhapBasic.dll
+E:\TestVB.Net\HocVBA\A1_CuPhapBasic\obj\Debug\net5.0\refint\A1_CuPhapBasic.dll
+E:\TestVB.Net\HocVBA\A1_CuPhapBasic\obj\Debug\net5.0\A1_CuPhapBasic.pdb
+E:\TestVB.Net\HocVBA\A1_CuPhapBasic\obj\Debug\net5.0\A1_CuPhapBasic.genruntimeconfig.cache
+E:\TestVB.Net\HocVBA\A1_CuPhapBasic\obj\Debug\net5.0\ref\A1_CuPhapBasic.dll

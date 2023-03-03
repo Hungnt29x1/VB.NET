@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "B3_b4_p2_NSSChannel/1.0.0": {
+        "runtime": {
+          "B3_b4_p2_NSSChannel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "B3_b4_p2_NSSChannel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

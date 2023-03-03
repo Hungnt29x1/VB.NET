@@ -1,0 +1,16 @@
+E:\TestVB.Net\HocVBA\A2_DataTypes\bin\Debug\net5.0\A2_DataTypes.exe
+E:\TestVB.Net\HocVBA\A2_DataTypes\bin\Debug\net5.0\A2_DataTypes.deps.json
+E:\TestVB.Net\HocVBA\A2_DataTypes\bin\Debug\net5.0\A2_DataTypes.runtimeconfig.json
+E:\TestVB.Net\HocVBA\A2_DataTypes\bin\Debug\net5.0\A2_DataTypes.runtimeconfig.dev.json
+E:\TestVB.Net\HocVBA\A2_DataTypes\bin\Debug\net5.0\A2_DataTypes.dll
+E:\TestVB.Net\HocVBA\A2_DataTypes\bin\Debug\net5.0\A2_DataTypes.pdb
+E:\TestVB.Net\HocVBA\A2_DataTypes\obj\Debug\net5.0\A2_DataTypes.vbproj.AssemblyReference.cache
+E:\TestVB.Net\HocVBA\A2_DataTypes\obj\Debug\net5.0\A2_DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+E:\TestVB.Net\HocVBA\A2_DataTypes\obj\Debug\net5.0\A2_DataTypes.AssemblyInfoInputs.cache
+E:\TestVB.Net\HocVBA\A2_DataTypes\obj\Debug\net5.0\A2_DataTypes.AssemblyInfo.vb
+E:\TestVB.Net\HocVBA\A2_DataTypes\obj\Debug\net5.0\A2_DataTypes.vbproj.CoreCompileInputs.cache
+E:\TestVB.Net\HocVBA\A2_DataTypes\obj\Debug\net5.0\A2_DataTypes.dll
+E:\TestVB.Net\HocVBA\A2_DataTypes\obj\Debug\net5.0\refint\A2_DataTypes.dll
+E:\TestVB.Net\HocVBA\A2_DataTypes\obj\Debug\net5.0\A2_DataTypes.pdb
+E:\TestVB.Net\HocVBA\A2_DataTypes\obj\Debug\net5.0\A2_DataTypes.genruntimeconfig.cache
+E:\TestVB.Net\HocVBA\A2_DataTypes\obj\Debug\net5.0\ref\A2_DataTypes.dll

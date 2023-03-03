@@ -1,0 +1,16 @@
+E:\TestVB.Net\HocVBA\A4_Constants_Enumerations\bin\Debug\net5.0\A4_Constants_Enumerations.exe
+E:\TestVB.Net\HocVBA\A4_Constants_Enumerations\bin\Debug\net5.0\A4_Constants_Enumerations.deps.json
+E:\TestVB.Net\HocVBA\A4_Constants_Enumerations\bin\Debug\net5.0\A4_Constants_Enumerations.runtimeconfig.json
+E:\TestVB.Net\HocVBA\A4_Constants_Enumerations\bin\Debug\net5.0\A4_Constants_Enumerations.runtimeconfig.dev.json
+E:\TestVB.Net\HocVBA\A4_Constants_Enumerations\bin\Debug\net5.0\A4_Constants_Enumerations.dll
+E:\TestVB.Net\HocVBA\A4_Constants_Enumerations\bin\Debug\net5.0\A4_Constants_Enumerations.pdb
+E:\TestVB.Net\HocVBA\A4_Constants_Enumerations\obj\Debug\net5.0\A4_Constants_Enumerations.vbproj.AssemblyReference.cache
+E:\TestVB.Net\HocVBA\A4_Constants_Enumerations\obj\Debug\net5.0\A4_Constants_Enumerations.GeneratedMSBuildEditorConfig.editorconfig
+E:\TestVB.Net\HocVBA\A4_Constants_Enumerations\obj\Debug\net5.0\A4_Constants_Enumerations.AssemblyInfoInputs.cache
+E:\TestVB.Net\HocVBA\A4_Constants_Enumerations\obj\Debug\net5.0\A4_Constants_Enumerations.AssemblyInfo.vb
+E:\TestVB.Net\HocVBA\A4_Constants_Enumerations\obj\Debug\net5.0\A4_Constants_Enumerations.vbproj.CoreCompileInputs.cache
+E:\TestVB.Net\HocVBA\A4_Constants_Enumerations\obj\Debug\net5.0\A4_Constants_Enumerations.dll
+E:\TestVB.Net\HocVBA\A4_Constants_Enumerations\obj\Debug\net5.0\refint\A4_Constants_Enumerations.dll
+E:\TestVB.Net\HocVBA\A4_Constants_Enumerations\obj\Debug\net5.0\A4_Constants_Enumerations.pdb
+E:\TestVB.Net\HocVBA\A4_Constants_Enumerations\obj\Debug\net5.0\A4_Constants_Enumerations.genruntimeconfig.cache
+E:\TestVB.Net\HocVBA\A4_Constants_Enumerations\obj\Debug\net5.0\ref\A4_Constants_Enumerations.dll
