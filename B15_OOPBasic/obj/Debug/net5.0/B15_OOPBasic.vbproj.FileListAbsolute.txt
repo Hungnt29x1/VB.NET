@@ -1,0 +1,16 @@
+E:\TraningOnJob\GitVB.NET\VB.NET\B15_OOPBasic\bin\Debug\net5.0\B15_OOPBasic.exe
+E:\TraningOnJob\GitVB.NET\VB.NET\B15_OOPBasic\bin\Debug\net5.0\B15_OOPBasic.deps.json
+E:\TraningOnJob\GitVB.NET\VB.NET\B15_OOPBasic\bin\Debug\net5.0\B15_OOPBasic.runtimeconfig.json
+E:\TraningOnJob\GitVB.NET\VB.NET\B15_OOPBasic\bin\Debug\net5.0\B15_OOPBasic.runtimeconfig.dev.json
+E:\TraningOnJob\GitVB.NET\VB.NET\B15_OOPBasic\bin\Debug\net5.0\B15_OOPBasic.dll
+E:\TraningOnJob\GitVB.NET\VB.NET\B15_OOPBasic\bin\Debug\net5.0\B15_OOPBasic.pdb
+E:\TraningOnJob\GitVB.NET\VB.NET\B15_OOPBasic\obj\Debug\net5.0\B15_OOPBasic.vbproj.AssemblyReference.cache
+E:\TraningOnJob\GitVB.NET\VB.NET\B15_OOPBasic\obj\Debug\net5.0\B15_OOPBasic.GeneratedMSBuildEditorConfig.editorconfig
+E:\TraningOnJob\GitVB.NET\VB.NET\B15_OOPBasic\obj\Debug\net5.0\B15_OOPBasic.AssemblyInfoInputs.cache
+E:\TraningOnJob\GitVB.NET\VB.NET\B15_OOPBasic\obj\Debug\net5.0\B15_OOPBasic.AssemblyInfo.vb
+E:\TraningOnJob\GitVB.NET\VB.NET\B15_OOPBasic\obj\Debug\net5.0\B15_OOPBasic.vbproj.CoreCompileInputs.cache
+E:\TraningOnJob\GitVB.NET\VB.NET\B15_OOPBasic\obj\Debug\net5.0\B15_OOPBasic.dll
+E:\TraningOnJob\GitVB.NET\VB.NET\B15_OOPBasic\obj\Debug\net5.0\refint\B15_OOPBasic.dll
+E:\TraningOnJob\GitVB.NET\VB.NET\B15_OOPBasic\obj\Debug\net5.0\B15_OOPBasic.pdb
+E:\TraningOnJob\GitVB.NET\VB.NET\B15_OOPBasic\obj\Debug\net5.0\B15_OOPBasic.genruntimeconfig.cache
+E:\TraningOnJob\GitVB.NET\VB.NET\B15_OOPBasic\obj\Debug\net5.0\ref\B15_OOPBasic.dll

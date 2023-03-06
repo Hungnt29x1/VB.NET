@@ -36,12 +36,16 @@ Public Class Rectangle ' định nghĩa lớp Rectangle.
         Console.OutputEncoding = System.Text.Encoding.UTF8
         Dim r As New Rectangle() ' Khởi tạo 1 đối tượng
         Dim nhap As String ' Khai báo 1 biến
+        r = New Rectangle()
         Console.Write("Mời bạn nhập tên bạn:")
         nhap = Console.ReadLine()
         Console.WriteLine("Xin chào: {0}", nhap)
+
+
         r.AcceptDetails()
         r.Display()
         Dim a As New Class1()
         Console.ReadLine()
+
     End Sub
 End Class

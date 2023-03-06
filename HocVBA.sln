@@ -15,21 +15,23 @@ Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "A5_Modifiers", "A5_Modifier
 EndProject
 Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "A6_Operators", "A6_Operators\A6_Operators.vbproj", "{A9CCA9D1-4B9B-46B4-B672-F8CEA6C04731}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "A7_Loops", "A7_Loops\A7_Loops.vbproj", "{FEF7768F-0663-4655-A332-0AF927C2C0C1}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "A7_Loops", "A7_Loops\A7_Loops.vbproj", "{FEF7768F-0663-4655-A332-0AF927C2C0C1}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "A8_Strings", "A8_Strings\A8_Strings.vbproj", "{6E0E1421-4CEB-4F0B-81E9-5B31E6A2417D}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "A8_Strings", "A8_Strings\A8_Strings.vbproj", "{6E0E1421-4CEB-4F0B-81E9-5B31E6A2417D}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "A9_Date_Time", "A9_Date_Time\A9_Date_Time.vbproj", "{3D04463D-079E-4368-BE65-7FEED380FCF1}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "A9_Date_Time", "A9_Date_Time\A9_Date_Time.vbproj", "{3D04463D-079E-4368-BE65-7FEED380FCF1}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "B10_Arrays", "B10_Arrays\B10_Arrays.vbproj", "{8D3EA6D2-687A-4E2E-A5E2-648612B0D581}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "B10_Arrays", "B10_Arrays\B10_Arrays.vbproj", "{8D3EA6D2-687A-4E2E-A5E2-648612B0D581}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "B11_Collections", "B11_Collections\B11_Collections.vbproj", "{1ECA58CF-4F2D-49DF-B715-21A50846DBDA}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "B11_Collections", "B11_Collections\B11_Collections.vbproj", "{1ECA58CF-4F2D-49DF-B715-21A50846DBDA}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "B12_Classes_Objects", "B12_Classes_Objects\B12_Classes_Objects.vbproj", "{7E9361F0-5F35-4101-8BB3-2FAD2C958B4A}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "B12_Classes_Objects", "B12_Classes_Objects\B12_Classes_Objects.vbproj", "{7E9361F0-5F35-4101-8BB3-2FAD2C958B4A}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "B13_ExceptionHandling", "B13_ExceptionHandling\B13_ExceptionHandling.vbproj", "{5CF6E633-496C-4E78-B828-27755BC76CAF}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "B13_ExceptionHandling", "B13_ExceptionHandling\B13_ExceptionHandling.vbproj", "{5CF6E633-496C-4E78-B828-27755BC76CAF}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "B14_FileHandling", "B14_FileHandling\B14_FileHandling.vbproj", "{A9742D87-974D-454C-A3AC-FD1817BEDF53}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "B14_FileHandling", "B14_FileHandling\B14_FileHandling.vbproj", "{A9742D87-974D-454C-A3AC-FD1817BEDF53}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "B15_OOPBasic", "B15_OOPBasic\B15_OOPBasic.vbproj", "{AB7E18C1-F695-4FAB-B9E3-CBBB1B194D9F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{A9742D87-974D-454C-A3AC-FD1817BEDF53}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9742D87-974D-454C-A3AC-FD1817BEDF53}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9742D87-974D-454C-A3AC-FD1817BEDF53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB7E18C1-F695-4FAB-B9E3-CBBB1B194D9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB7E18C1-F695-4FAB-B9E3-CBBB1B194D9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB7E18C1-F695-4FAB-B9E3-CBBB1B194D9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB7E18C1-F695-4FAB-B9E3-CBBB1B194D9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

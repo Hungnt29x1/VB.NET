@@ -15,6 +15,7 @@ Module Program
         Console.WriteLine("------------------------CONSTANTS--------------------------")
 
         Const PI = 3.14149 ' Phải được gán giá định và giá trị này không thể thay đổi
+        Dim Conversion As Integer = CInt(PI)
         Dim radius, area As Single
         radius = 7
         area = PI * radius * radius

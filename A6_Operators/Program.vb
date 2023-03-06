@@ -30,7 +30,9 @@ Module Program
         c = a + b 'c sẽ có giá trị 8
         c = a - b 'c sẽ có giá trị 2
         c = a * b 'c sẽ có giá trị 15
-        c = a / b 'c sẽ có giá trị 1 (kết quả là số nguyên)
+        c = a / b  'c sẽ có giá trị 1 (kết quả là số nguyên) 
+        Dim d As Double = a Mod b
+        Console.WriteLine(d)
         c = a Mod b 'c sẽ có gi
 
         '------------------------- Toán tử so sánh -----------------------------

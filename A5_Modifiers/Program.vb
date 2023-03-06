@@ -1,6 +1,14 @@
 ﻿Imports System
 
 Class Program
+
+    Public Sub New()
+
+    End Sub
+    Public Sub New(ByVal a As Integer, ByVal b As Integer)
+
+    End Sub
+
     '---------- Public-------------------
     Public pb As Integer
     Public Sub MyMethod1()
@@ -23,6 +31,7 @@ Class Program
 
     '---------- Friend-------------------
     Friend fri As Long
+
     Friend Sub MyMethod3()
 
     End Sub

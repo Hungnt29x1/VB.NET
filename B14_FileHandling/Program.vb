@@ -5,6 +5,7 @@ Imports System.IO
 
 Module Program
     Sub Main(args As String())
+        Console.OutputEncoding = System.Text.Encoding.UTF8
         'FileStream . Ví dụ : Mở một tệp văn bản có tên là "test.txt" để đọc dữ liệu từ tệp này:
         'Dim fileStream As FileStream = New FileStream("test.txt", FileMode.Open, FileAccess.Read)
         'Dim reader As StreamReader = New StreamReader(fileStream)
@@ -19,8 +20,8 @@ Module Program
 
         'FileInfo và Directory để thực hiện các thao tác với tệp và thư mục.
         'Ví dụ dưới đây sử dụng lớp FileInfo để kiểm tra xem một tệp có tồn tại hay không
-        Dim file As FileInfo = New FileInfo("test.txt")
-        If File.Exists Then
+        Dim file As FileInfo = New FileInfo("D:\Test.txt")
+        If file.Exists Then
             Console.WriteLine("File tồn tại")
         Else
             Console.WriteLine("File không tồn tại")
@@ -28,7 +29,7 @@ Module Program
 
 
         'Để đọc nội dung của một tập tin, có thể sử dụng lớp FileStream để mở tập tin, sau đó sử dụng lớp StreamReader để đọc các dòng của tập tin và lưu trữ nội dung vào một biến chuỗi:
-        Dim filePath As String = "‪D:\Test.txt"
+        Dim filePath As String = "‪test.txt"
 
         ' Tạo đối tượng FileStream để mở tập tin
         Dim fileStream1 As New FileStream(filePath, FileMode.Open)
@@ -39,6 +40,7 @@ Module Program
         ' Đọc các dòng của tập tin và lưu trữ nội dung vào biến chuỗi
         Dim content As String = streamReader.ReadToEnd()
 
+        Console.WriteLine(content)
         ' Đóng luồng đọc và tập tin
         streamReader.Close()
         fileStream1.Close()
@@ -46,7 +48,7 @@ Module Program
         ' Để ghi nội dung vào một tập tin,có thể sử dụng lớp StreamWriter để tạo một đối tượng ghi và sử dụng phương thức Write hoặc WriteLine để ghi nội dung vào tập tin
 
         ' Tạo đối tượng StreamWriter để ghi nội dung vào tập tin
-        Dim streamWriter As New StreamWriter(filePath, True)
+        Dim streamWriter As New StreamWriter("", True)
 
         ' Ghi nội dung vào tập tin
         streamWriter.WriteLine("Hello, world!")
